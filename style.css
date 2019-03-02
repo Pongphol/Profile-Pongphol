@@ -299,8 +299,10 @@ nav .brand-logo img {
 
 
 .title{
-  font-size: 48px;
-  font-weight: 700;
+  /* font-size: 48px;
+  font-weight: 700; */
+  font-size: 24px;
+  font-weight: 600;
   line-height: 1.1;
   margin-bottom: 35px;
   text-transform: uppercase;
@@ -440,7 +442,7 @@ nav .brand-logo img {
 }
 
 
-#edcuation{
+#education{
   background-color: #fafafa;
   display: inline;
   padding: 60px 0;
